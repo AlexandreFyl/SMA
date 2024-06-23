@@ -41,7 +41,7 @@ Le projet est constitué de trois fichiers :
 
 Le système simule les éléments suivants : 
 
-- Une scène atour de laquelle les spectateurs (agents auditeurs) dansent.
+- Une scène autour de laquelle les spectateurs (agents auditeurs) dansent.
 - Des bars où les spectateurs peuvent obtenir des boissons.
 - Des toilettes que les spectateurs peuvent utiliser.
 - Des barmans qui servent les boissons.
