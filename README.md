@@ -79,3 +79,7 @@ Nous trouvons aussi au début du fichier deux constantes correspondant à la tai
 WIDTH, HEIGHT  =  1280, 720
 FPS  =  30
 ```
+
+## Aperçu final
+
+![apercu](https://i.ibb.co/M2WdYh9/apercu.jpg)
