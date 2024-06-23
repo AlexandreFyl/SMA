@@ -58,7 +58,7 @@ def main():
     for bar in bars:
         bar.manager = bar_manager
 
-    listeners, bartenders = populateAgents(500, 3, scene, bars)
+    listeners, bartenders = populateAgents(200, 2, scene, bars)
     
     all_agents = listeners + bartenders + [bar_manager]
 
